@@ -8,13 +8,13 @@
 ## Tech Stack
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=py,js,cs,html,css)]()
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,cs)]()
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,vscode)]()
 
 ### Tools and Technologies...
-[![My Skills](https://skillicons.dev/icons?i=git,jira,docker,flask,heroku,postman)]()
+[![My Skills](https://skillicons.dev/icons?i=react,node.js,unity,git,bitbuck,docker,flask,heroku,postman)]()
 
 
 #### Connect with me!
