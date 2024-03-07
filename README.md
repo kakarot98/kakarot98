@@ -1,9 +1,9 @@
-### Hi there, I'm Hrushikesh MOhanty 👋
+### Hi there, I'm Hrushikesh Mohanty 👋
 
 
-👩‍🎓 I’m a Software Engineer at Prudential Financial and a Grad student at New Jersey Institute of Technology (May 2024)
+👨🏼‍🎓 I’m a Software Engineer at Prudential Financial and a Grad student at New Jersey Institute of Technology (May 2024)
 
-👩‍💻 I’ve two years of professional experience in the field of data science and machine learning
+👨‍💻 I’ve two years of professional experience in the field of software engineering and product management
 
 ## Tech Stack
 
