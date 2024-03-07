@@ -7,7 +7,7 @@
 
 ## Tech Stack
 
-### Languages
+### Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,cs,react,nodejs,nextjs,express)]()
 
 ### Databases
