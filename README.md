@@ -11,10 +11,10 @@
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,cs,react,nodejs,nextjs,express)]()
 
 ### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)]()
 
 ### Tools and Technologies...
-[![My Skills](https://skillicons.dev/icons?i=redux,unity,git,bitbucket,docker,flask,heroku,postman,blender)]()
+[![My Skills](https://skillicons.dev/icons?i=redux,unity,git,bitbucket,docker,flask,heroku,postman,blender,vscode)]()
 
 
 #### Connect with me!
