@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,vscode)]()
 
 ### Tools and Technologies...
-[![My Skills](https://skillicons.dev/icons?i=react,node.js,unity,git,bitbuck,docker,flask,heroku,postman)]()
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,unity,git,bitbuck,docker,flask,heroku,postman)]()
 
 
 #### Connect with me!
