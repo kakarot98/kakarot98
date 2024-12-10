@@ -1,36 +1,39 @@
 ### Hi there, I'm Hrushikesh Mohanty 👋
 
+I’m a **Software Engineer | Writer ** with a **Master's degree from NJIT** (Graduated May 2024). I’m passionate about building efficient, scalable systems and crafting smooth user experiences. Beyond coding, I’m always curious about emerging technologies, product design, and shifting chords Em-A.
 
-👨🏼‍🎓 I’m a Software Engineer at Prudential Financial and a Grad student at New Jersey Institute of Technology (May 2024)
+---
 
-👨‍💻 I’ve two years of professional experience in the field of software engineering and product management
+### 💼 A Little About Me
+- 👨‍💻 **Experience:** 2 years of professional work in software engineering and product management.
+- 🎓 **Student Life:** Grad student @ NJIT focusing on Web Dev, Front-end dev, Project Management, and Advanced Web Technologies.
+- 🚀 **Interests:** Full-Stack Development, AR/VR, Writing, Sketching and Guitar.
+- 🌱 **Currently Learning:** Improving on Developing skills in Front-end dev and learning to shift chords G-C-D
+---
 
-## Tech Stack
+### 🛠 Tech Stack
 
-### Languages and Frameworks
+**Languages & Frameworks**  
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,cs,react,nodejs,nextjs,express)]()
 
-### Databases
+**Databases**  
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)]()
 
-### Tools and Technologies...
+**Tools & Technologies**  
 [![My Skills](https://skillicons.dev/icons?i=redux,unity,git,bitbucket,docker,flask,heroku,postman,blender,vscode)]()
 
+---
 
-#### Connect with me!
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hrushikeshmohanty/)
+### 📊 GitHub Stats
+![Hrushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakarot98&show_icons=true&theme=radical)
 
-<!--
-**kakarot98/kakarot98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakarot98&layout=compact&theme=radical)](https://github.com/kakarot98)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect With Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hrushikeshmohanty/)  
+
+Feel free to reach out for collaborations, code reviews, or just a friendly tech chat!
+
+---
