@@ -25,8 +25,6 @@ I’m a **Software Engineer | Writer** with a **Master's degree from NJIT** (Gra
 ---
 
 ### 📊 GitHub Stats
-![Hrushikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kakarot98&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakarot98&layout=compact&theme=radical)](https://github.com/kakarot98)
 
 ---
