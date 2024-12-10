@@ -1,6 +1,6 @@
 ### Hi there, I'm Hrushikesh Mohanty 👋
 
-I’m a **Software Engineer | Writer ** with a **Master's degree from NJIT** (Graduated May 2024). I’m passionate about building efficient, scalable systems and crafting smooth user experiences. Beyond coding, I’m always curious about emerging technologies, product design, and shifting chords Em-A.
+I’m a **Software Engineer | Writer** with a **Master's degree from NJIT** (Graduated May 2024). I’m passionate about building efficient, scalable systems and crafting smooth user experiences. Beyond coding, I’m always curious about emerging technologies, product design, and shifting chords Em-A.
 
 ---
 
