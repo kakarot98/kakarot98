@@ -14,7 +14,7 @@ I’m a **Software Engineer | Writer** with a **Master's degree from NJIT** (Gra
 ### 🛠 Tech Stack
 
 **Languages & Frameworks**  
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,cs,react,nodejs,nextjs,express)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,nextjs,express,py,cs)]()
 
 **Databases**  
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)]()
